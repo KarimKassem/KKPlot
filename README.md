@@ -1,6 +1,25 @@
 # KKPlot
 Python library to simplify and enhance the visualization of data trends.
 
+# Project Dependencies
+
+This document lists the external libraries required for running the project successfully. These libraries can be installed using `pip`, Python's package installer. Ensure you have Python and `pip` installed on your system before proceeding.
+
+## Core Dependencies
+
+- **Pandas**: Provides high-performance, easy-to-use data structures, and data analysis tools.
+- **Plotly**: An interactive graphing library for Python. It includes `plotly.express`, `plotly.graph_objects`, and `plotly.figure_factory` for creating a wide variety of interactive plots and figures.
+
+## Installation
+
+To install these dependencies, run the following command in your terminal:
+
+```bash
+pip install pandas plotly
+
+
+
+
 
 # Available Plots
 ## Trend with IQR Function Documentation
