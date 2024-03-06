@@ -32,7 +32,7 @@ The `trend_with_IQR` function is designed to visualize data trends, focusing on 
 - **x_feature_type**: Type of `x_feature` ('str' for strings or 'numeric' for numerical values).
 - **unique_x_labels**: Unique labels/values for `x_feature`. If set to 'auto', unique values are automatically determined.
 - **y_feature**: Feature on the y-axis to analyze.
-- **thresholds**: List of dictionaries defining threshold lines on the plot with keys 'y' (threshold value), 'name' (label), 'line_color', 'line_dash', and 'line_width'. False to avoid plotting threshold lines
+- **thresholds**: List of dictionaries defining threshold lines on the plot with keys 'X' (threshold value position relative to the x axis), 'y' (threshold value), 'name' (label), 'line_color', 'line_dash', and 'line_width'. False to avoid plotting threshold lines
 - **x_axis_title**: Title for the x-axis.
 - **y_axis_title**: Title for the y-axis.
 - **y_axis_range**: Range for the y-axis as [min, max].
