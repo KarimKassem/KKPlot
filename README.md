@@ -1,5 +1,5 @@
 # KKPlot
-Python library to simplify and enhance the visualization of data trends.
+Python library to simplify data visualization.
 
 # Project Dependencies
 
