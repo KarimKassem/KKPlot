@@ -18,6 +18,7 @@ The `trend_with_IQR` function is designed to visualize data trends, focusing on 
 - **x_axis_title**: Title for the x-axis.
 - **y_axis_title**: Title for the y-axis.
 - **y_axis_range**: Range for the y-axis as [min, max].
+- **plot_size**: A tuple specifying the width and height of the plot (e.g., (800, 500)).
 - **title**: Title of the plot.
 - **show_image**: Boolean indicating whether to display the plot.
 - **save_image**: Boolean indicating whether to save the plot as an image file.
