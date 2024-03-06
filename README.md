@@ -14,7 +14,7 @@ This document lists the external libraries required for running the project succ
 
 To install these dependencies, run the following command in your terminal:
 
-```bash
+```bash```
 pip install pandas plotly
 
 
